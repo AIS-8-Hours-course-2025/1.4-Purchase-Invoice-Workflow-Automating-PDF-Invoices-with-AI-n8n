@@ -44,6 +44,10 @@ flowchart TD
     F --> G[7. Send Email Notification to Billing Team]
 ```
 ---
+
+[![Watch the Project](https://raw.githubusercontent.com/AIS-8-Hours-course-2025/1.4-Purchase-Invoice-Workflow-Automating-PDF-Invoices-with-AI-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=jfxweZfO2xo)
+
+---
 ## ⚙️ Workflow Steps  
 
 ### **Step 1: Google Drive Trigger**  
